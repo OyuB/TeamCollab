@@ -3,12 +3,12 @@ package Utils;
 public class MainUtils {
 
 
-    public void coolStuff(){
+    public static void coolStuff(){
 
     }
 
 
-    public void AnotherCoolStuff(){
+    public static void AnotherCoolStuff(){
 
     }
 
